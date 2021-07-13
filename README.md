@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blindman01
+- 👋 Hi, I’m Zack.
 - 👀 I’m interested in Front End Development, Art, and Videogames.
 - 🌱 I’m currently learning PHP and Amazon's Aws services.
 - 💞️ I’m looking to collaborate on anything that needs a front end design. I love creating and bringing websites to life.
